@@ -1,0 +1,7 @@
+{
+  "name": "iCalorie",
+  "description": "Минималистичный трекер калорий в стиле iOS с использованием ИИ для распознавания еды.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
